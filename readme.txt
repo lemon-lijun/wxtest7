@@ -1,4 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the gpl.
 Git has a mutable index called stage.
-your are a dog.
+#your are a dog.
